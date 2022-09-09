@@ -11,7 +11,7 @@ export const TRANSACTIONS = {
     {
       network: "FTM",
       hashes: [
-        "0x1266c5327b0a95932c558ba61cd7f64d90c15a522e23f0b08bcbebcfc352c935",
+        "0x6346d4e31e2e355ceb18bbb6222f668a8b1ab5c8251f34244af41dc7688f62f0",
       ],
     },
   ],
